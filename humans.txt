@@ -1,0 +1,11 @@
+/* SITE INFORMATION */
+
+	Site name:  Perishable Press
+	Site URL:   https://perishablepress.com/
+	Web design: Jeff Starr @ Monzilla Media
+	About.me:   https://about.me/jeffstarr
+	Twitter:    https://twitter.com/perishable
+	Contact:    https://perishablepress.com/contact/
+	Location:   USA
+	Built with: WordPress, PHP, HTML, CSS, JavaScript, XML, SQL, .htaccess
+	Launched:   2005
